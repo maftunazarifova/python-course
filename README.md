@@ -71,6 +71,7 @@
 ### BONUS.
 ➡ Firebase bilan integratsiya.<br>
 ➡ Pythonda Multiprocessing.<br>
+➡ Async-Python.<br>
 ➡ Unit Testing<br>
 ➡ Git, Github<br>
 ➡ Docker<br>
