@@ -6,7 +6,7 @@
 # 4. Maxsus belgilar.
 # 5. Formatlangan string. "f-string".
 # 6. String metodlari.
-# 7. Raqamlar bilan ishlash. [integer, float, complex]
+# 7. Raqamlar bilan ishlash. (integer, float, complex)
 # 8. Boolean - mantiqiy qiymat.
 # 9. Ma'lumot turini o'zgartirish.
 
