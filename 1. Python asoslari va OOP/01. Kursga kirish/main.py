@@ -6,7 +6,7 @@
 # 4. Kod muharriri.
 # 5. Birinchi dasturimiz [HelloWorld, Calculator]
 # 6. Python kengaytmalari.
-# 7. Python ilovalari.
+# 7. Python dasturlari.
 
 ###############################################################################################
 
