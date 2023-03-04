@@ -34,7 +34,7 @@
 
 # Mashhur kod muharrirlari: PyCharm Community, Visual Studio Code, Spyder.
 
-#### - 5.Birinchi dasturimiz [HelloWorld, Calculator] - #### 
+#### - 5.Birinchi dasturimiz [HelloWorld, Calculator] - ###
 
 # 1. Hello World.
 # print("Hello World!")
